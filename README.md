@@ -5,8 +5,8 @@
 **Backend Engineer & Full-Stack Developer**  
 *Building production-grade systems with Python, Django, and React*
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/fraheem)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fraheemahmed2004@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://your-portfolio.com)
 
 </div>
@@ -42,8 +42,8 @@ class SoftwareEngineer:
 
 ## 🏗️ **Featured Projects**
 
-### 🏥 [**Klara Clone - Healthcare Platform**](https://github.com/your-username/klara-clone)
-**Django • PostgreSQL • React • REST APIs • WebRTC**
+### 🏥 [**NerraText - Healthcare Messaging Platform**]
+**Django • PostgreSQL • React • Vite • REST APIs • Redis • Celery • WebSockets**
 
 A comprehensive healthcare communication platform with enterprise-grade architecture:
 
@@ -51,30 +51,13 @@ A comprehensive healthcare communication platform with enterprise-grade architec
 - 🏢 **Multi-tenant architecture** supporting organizations and facilities  
 - ⚡ **High-performance backend** with <2s API responses under 500 concurrent users
 - 🛡️ **HIPAA-compliant design** with end-to-end encryption and audit logging
-- 📊 **Real-time analytics** with WebSocket integration
-- 🎥 **Video consultations** using WebRTC technology
 
-**Key Features:** User management, secure messaging, digital forms, video calls, analytics dashboard
+**Key Features:** User management, secure messaging, top notch security 
 
 ---
 
-### 👥 [**Enterprise User Management System**](https://github.com/your-username/user-management)
-**Django • PostgreSQL • Django REST Framework • pytest**
-
-Production-ready user management system with role-based access control:
-
-- 🎯 **Hierarchical RBAC** with object-level permissions
-- 📁 **Bulk operations** with CSV import/export (10,000+ users)
-- 🔌 **RESTful APIs** with OpenAPI documentation
-- 🧪 **85% test coverage** with comprehensive unit/integration tests
-- ⚡ **Optimized performance** with indexed queries and caching
-
-**API Endpoints:** `/api/users/`, `/api/users/me/`, `/api/users/assign-privileges/`
-
----
-
-### 🌐 [**XynSol - Professional Portfolio Website**](https://github.com/your-username/xynsol-portfolio)
-**React • Next.js • Tailwind CSS • Responsive Design**
+### 🌐 [**XynSol - Professional Portfolio Website**](https://xynsol.com)
+**React • Next.js • Tailwind CSS • TypeScript • Responsive Design**
 
 Modern business website with professional UI/UX:
 
@@ -199,7 +182,7 @@ I'm always interested in:
 
 **Currently open to new opportunities and interesting projects!**
 
-[![LinkedIn](https://img.shields.io/badge/Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
+[![LinkedIn](https://img.shields.io/badge/Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/fraheem)
 
 </div>
 
