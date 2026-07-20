@@ -198,7 +198,7 @@ Modern business website with professional UI/UX:
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fraheemahmed&layout=compact&theme=radical&hide_border=true)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=fraheemahmed&theme=radical&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com/?user=fraheemahmed&theme=radical&hide_border=true)
 
 </div>
 
@@ -231,4 +231,10 @@ I'm always interested in:
 
 [![LinkedIn](https://img.shields.io/badge/Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/fraheem)
 
+</div>
+
+---
+
+<div align="center">
+<sub>Built with ❤️ and lots of ☕ | Always learning, always building</sub>
 </div>
