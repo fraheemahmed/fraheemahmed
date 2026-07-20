@@ -194,7 +194,7 @@ Modern business website with professional UI/UX:
 
 <div align="center">
 
-![Top Languages](https://github-stats-extended.vercel.app/api/top-langs?username=fraheemahmed&layout=donut&theme=dark)    
+![Top Languages](https://github-stats-extended.vercel.app/api/top-langs?username=fraheemahmed&layout=donut&theme=dark&count_private=true&include_forked=true)
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=fraheemahmed&theme=radical&hide_border=true)
 
