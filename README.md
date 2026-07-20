@@ -62,11 +62,11 @@ A comprehensive healthcare communication platform with enterprise-grade architec
 
 An internal operations platform built for a medical billing company, managing staff workflows end-to-end:
 
-- 💬 **Real-time chat system** with SignalR — private & group chats, file attachments, infinite scroll pagination, and Web Push notifications (VAPID)
+- 💬 **Real-time chat system** with SignalR - private & group chats, file attachments, infinite scroll pagination, and Web Push notifications (VAPID)
 - 🤖 **AI-powered Daily Task Reports** with anomaly detection and trend analysis via Groq API
 - 📋 **Attendance tracking module** with timezone-aware display (Asia/Karachi)
 - 🎂 **Birthday & staff engagement** features
-- 🔐 **Role-based access control** — Administrator and Employee roles via ASP.NET Identity
+- 🔐 **Role-based access control** - Administrator and Employee roles via ASP.NET Identity
 - 🎨 **Full UI overhaul** using a CSS design token system with consistent brand colors, Inter font, and glowing sidebar states
 
 **Key Features:** Task reporting, real-time messaging, AI insights, attendance management
