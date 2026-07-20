@@ -7,7 +7,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/fraheem)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fraheemahmed2004@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://your-portfolio.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://fraheem.vercel.app)
 
 </div>
 
@@ -43,7 +43,7 @@ class SoftwareEngineer:
 
 ## 🏗️ **Featured Projects**
 
-### 🏥 [**NerraText - Healthcare Messaging Platform**]
+### 🏥 [**NerraText - Enterprise Healthcare Messaging Platform**]
 **Django • PostgreSQL • React • Vite • REST APIs • Redis • Celery • WebSockets**
 
 A comprehensive healthcare communication platform with enterprise-grade architecture:
@@ -57,7 +57,7 @@ A comprehensive healthcare communication platform with enterprise-grade architec
 
 ---
 
-### 🧾 [**MedBillers (MBT) - Staff Management System**]
+### 🧾 [**MBT - Workflow Engine**]
 **ASP.NET Core MVC • EF Core • TiDB Cloud/MySQL • SignalR • Bootstrap 5 • ASP.NET Identity • Groq API**
 
 An internal operations platform built for a medical billing company, managing staff workflows end-to-end:
@@ -231,10 +231,4 @@ I'm always interested in:
 
 [![LinkedIn](https://img.shields.io/badge/Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/fraheem)
 
-</div>
-
----
-
-<div align="center">
-<sub>Built with ❤️ and lots of ☕ | Always learning, always building</sub>
 </div>
