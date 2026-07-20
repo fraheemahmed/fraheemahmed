@@ -3,7 +3,7 @@
 <div align="center">
 
 **Backend Engineer & Full-Stack Developer**  
-*Building production-grade systems with Python, Django, and React*
+*Building production-grade systems with Python, Django, ASP.NET Core, and React*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/fraheem)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fraheemahmed2004@gmail.com)
@@ -24,6 +24,7 @@ class SoftwareEngineer:
     def current_work(self):
         return [
             "Healthcare platform with RBAC (Django + PostgreSQL)",
+            "Staff management system with real-time chat & AI insights (ASP.NET Core)",
             "Multi-tenant SaaS architecture design", 
             "API-first development with DRF",
             "Production-grade authentication systems"
@@ -52,7 +53,23 @@ A comprehensive healthcare communication platform with enterprise-grade architec
 - ⚡ **High-performance backend** with <2s API responses under 500 concurrent users
 - 🛡️ **HIPAA-compliant design** with end-to-end encryption and audit logging
 
-**Key Features:** User management, secure messaging, top notch security 
+**Key Features:** User management, secure messaging, top notch security
+
+---
+
+### 🧾 [**MedBillers (MBT) - Staff Management System**]
+**ASP.NET Core MVC • EF Core • TiDB Cloud/MySQL • SignalR • Bootstrap 5 • ASP.NET Identity • Groq API**
+
+An internal operations platform built for a medical billing company, managing staff workflows end-to-end:
+
+- 💬 **Real-time chat system** with SignalR — private & group chats, file attachments, infinite scroll pagination, and Web Push notifications (VAPID)
+- 🤖 **AI-powered Daily Task Reports** with anomaly detection and trend analysis via Groq API
+- 📋 **Attendance tracking module** with timezone-aware display (Asia/Karachi)
+- 🎂 **Birthday & staff engagement** features
+- 🔐 **Role-based access control** — Administrator and Employee roles via ASP.NET Identity
+- 🎨 **Full UI overhaul** using a CSS design token system with consistent brand colors, Inter font, and glowing sidebar states
+
+**Key Features:** Task reporting, real-time messaging, AI insights, attendance management
 
 ---
 
@@ -75,18 +92,28 @@ Modern business website with professional UI/UX:
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![Django REST](https://img.shields.io/badge/DRF-ff1709?style=for-the-badge&logo=django&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 
 ### **Frontend & UI**
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 ### **Databases & Infrastructure**
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![TiDB](https://img.shields.io/badge/TiDB-E10B1C?style=for-the-badge&logo=pingcap&logoColor=white)
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+
+### **Real-Time & AI**
+![SignalR](https://img.shields.io/badge/SignalR-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
+![Groq](https://img.shields.io/badge/Groq_API-F55036?style=for-the-badge&logoColor=white)
+![Celery](https://img.shields.io/badge/Celery-37814A?style=for-the-badge&logo=celery&logoColor=white)
 
 ### **DevOps & Tools**
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
@@ -111,11 +138,31 @@ Modern business website with professional UI/UX:
 </td>
 <td width="50%">
 
+**ASP.NET Core MVC**
+- EF Core with code-first migrations
+- ASP.NET Identity & role management
+- Real-time systems with SignalR
+- Repository & service layer patterns
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
 **System Design**
 - Multi-tenant SaaS architecture
 - RESTful API design patterns
 - Database schema optimization
 - Scalable backend systems
+
+</td>
+<td width="50%">
+
+**AI Integration**
+- LLM API integration (Groq)
+- Anomaly detection pipelines
+- Structured prompt engineering
+- AI-augmented reporting systems
 
 </td>
 </tr>
