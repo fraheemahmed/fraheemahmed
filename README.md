@@ -43,7 +43,7 @@ class SoftwareEngineer:
 
 ## 🏗️ **Featured Projects**
 
-### 🏥 [**NerraText - Enterprise Healthcare Messaging Platform**]
+### 🏥 **NerraText - Enterprise Healthcare Messaging Platform**
 **Django • PostgreSQL • React • Vite • REST APIs • Redis • Celery • WebSockets**
 
 A comprehensive healthcare communication platform with enterprise-grade architecture:
@@ -57,7 +57,7 @@ A comprehensive healthcare communication platform with enterprise-grade architec
 
 ---
 
-### 🧾 [**MBT - Workflow Engine**]
+### 🧾 **MBT - Workflow Engine**
 **ASP.NET Core MVC • EF Core • TiDB Cloud/MySQL • SignalR • Bootstrap 5 • ASP.NET Identity • Groq API**
 
 An internal operations platform built for a medical billing company, managing staff workflows end-to-end:
@@ -194,11 +194,11 @@ Modern business website with professional UI/UX:
 
 <div align="center">
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical&hide_border=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=fraheemahmed&show_icons=true&theme=radical&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fraheemahmed&layout=compact&theme=radical&hide_border=true)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=radical&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=fraheemahmed&theme=radical&hide_border=true)
 
 </div>
 
