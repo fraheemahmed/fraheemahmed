@@ -230,9 +230,3 @@ I'm always interested in:
 [![LinkedIn](https://img.shields.io/badge/Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/fraheem)
 
 </div>
-
----
-
-<div align="center">
-<sub>Built with ❤️ and lots of ☕ | Always learning, always building</sub>
-</div>
