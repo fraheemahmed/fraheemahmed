@@ -172,7 +172,6 @@ LLM pipelines · Groq<br>Anomaly detection
 <div align="center">
 <img src="https://raw.githubusercontent.com/fraheemahmed/fraheemahmed/output/github-contribution-grid-snake-dark.svg"/>
 
-<sub>⚠️ Snake animation needs a one-time GitHub Action setup — see setup note below.</sub>
 </div>
 
 <br>
